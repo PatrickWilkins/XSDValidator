@@ -1,0 +1,12 @@
+c:\users\wilkinpa\documents\visual studio 2013\Projects\xsdValidator\xsdValidator\bin\Debug\xsdValidator.exe.config
+C:\Users\wilkinpa\Documents\Visual Studio 2013\Projects\xsdValidator\xsdValidator\bin\Debug\xsdValidator.exe
+C:\Users\wilkinpa\Documents\Visual Studio 2013\Projects\xsdValidator\xsdValidator\bin\Debug\xsdValidator.pdb
+C:\Users\wilkinpa\Documents\Visual Studio 2013\Projects\xsdValidator\xsdValidator\obj\Debug\xsdValidator.csprojResolveAssemblyReference.cache
+C:\Users\wilkinpa\Documents\Visual Studio 2013\Projects\xsdValidator\xsdValidator\obj\Debug\xsdValidator.exe
+C:\Users\wilkinpa\Documents\Visual Studio 2013\Projects\xsdValidator\xsdValidator\obj\Debug\xsdValidator.pdb
+D:\xsdValidator\xsdValidator\bin\Debug\xsdValidator.exe.config
+D:\xsdValidator\xsdValidator\obj\Debug\xsdValidator.exe
+D:\xsdValidator\xsdValidator\obj\Debug\xsdValidator.pdb
+D:\xsdValidator\xsdValidator\obj\Debug\xsdValidator.csprojResolveAssemblyReference.cache
+D:\xsdValidator\xsdValidator\bin\Debug\xsdValidator.exe
+D:\xsdValidator\xsdValidator\bin\Debug\xsdValidator.pdb
